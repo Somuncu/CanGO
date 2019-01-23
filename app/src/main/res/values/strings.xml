@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CanGO</string>
+    <string name="title_activity_can_go_maps">Map</string>
+    <string name="title_activity_somun_map">Map</string>
+</resources>
